@@ -34,8 +34,8 @@ module.exports = {
         },
         prerelease: false,
         draft: true,
-        token: process.env.GITHUB_TOKEN
+        token: process.env.GITHUB_TOKEN,
       },
     },
-  ],
+  ]
 };
